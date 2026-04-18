@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Aayushi 👋
 
-<!--
-**aayushi2882/aayushi2882** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Interested in Open Source & DSA  
+🚀 Currently preparing for GSoC / ESoC  
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
+- C++
+- Java
+- Data Structures & Algorithms
+- vanilla js
+- MERN stack
+- python-flask
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Open Source Contribution
+- System Design basics
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/aayushi-mishra-6ab223297/
