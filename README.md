@@ -68,8 +68,7 @@ Currently focused on strengthening my **DSA**, exploring **full-stack developmen
 
 <!-- ============ FOCUS ============ -->
 <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:3B82F6,100:60A5FA" />
-
-
+<img width="100%" alt="Aayushi's blue contribution snake" src="https://raw.githubusercontent.com/aayushi2882/aayushi2882/output/github-contribution-grid-snake.svg" />
 
 ## `> currently growing`
 
